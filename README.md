@@ -1,4 +1,4 @@
-# Analise-Exploratoria-e-ggplot2
+# Análise exploratória e utilização do pacote ggplot2
 
 ## Parte 1
 Trata-se da resolução de exercícios propostos em Wickham e Grolemund (2016):
